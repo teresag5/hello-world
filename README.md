@@ -1,2 +1,3 @@
 # hello-world
 Another Git repository
+Learning how this thing works...
